@@ -1,4 +1,4 @@
-# SlowFast
+# SlowFast Networks for Video Recognition
 
 ## Reference
   - [Paper Link](https://arxiv.org/pdf/1812.03982.pdf)
